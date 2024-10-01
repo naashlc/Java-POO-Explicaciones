@@ -9,7 +9,8 @@ La programación orientada a objetos (POO) fue desarrollada en la década de 196
 ## 🔑 Conceptos Clave
 
 ### 1. Clases y Objetos
-- **Clase**: Es un plano o plantilla para crear objetos. Define propiedades y métodos.
+- **Clase**: Es un plano o plantilla para crear objetos. Define propiedades y métodos. 
+    - *Ejemplo*: `class Coche { ... }`
 - **Objeto**: Es una instancia de una clase. Por ejemplo, si tenemos una clase `Coche`, un objeto podría ser `miCoche`.
 
 ### 2. Abstracción
@@ -20,9 +21,11 @@ El encapsulamiento es la práctica de restringir el acceso a ciertos componentes
 
 ### 4. Herencia
 La herencia permite que una clase (subclase) herede propiedades y métodos de otra clase (superclase). Esto promueve la reutilización del código.
+- *Ejemplo*: `class Vehiculo { ... }` que se hereda en `class Coche extends Vehiculo { ... }`
 
 ### 5. Polimorfismo
 El polimorfismo permite que métodos en diferentes clases tengan el mismo nombre pero se comporten de manera diferente. Esto facilita la extensibilidad del código.
+- *Ejemplo*: `animal.hacerSonido()` puede llamar a diferentes implementaciones según si es un `Perro` o un `Gato`.
 
 ## 📚 Recursos Adicionales
 
@@ -32,9 +35,9 @@ El polimorfismo permite que métodos en diferentes clases tengan el mismo nombre
 - Aquí tienes otro video que también me ha servido (incluye POO):
   - [Aprende Java en 2024: El curso definitivo para principiantes](https://www.youtube.com/watch?v=Bi9AmOBDJGY)
 
-
 ## ❓ Preguntas Frecuentes
 - **¿Qué es un constructor?**
   - Un constructor es un método especial que se llama al crear un objeto de una clase.
-- **¿Qué es la diferencia entre abstracción y encapsulamiento?**
-  - La abstracción se centra en ocultar la complejidad y mostrar solo lo esencial, mientras que el encapsulamiento se enfoca en proteger el acceso a los datos de un objeto.
+  
+- **¿Cuál es la diferencia entre abstracción y encapsulamiento?**
+  - La **abstracción** se centra en ocultar la complejidad y mostrar solo lo esencial, mientras que el **encapsulamiento** se enfoca en proteger el acceso a los datos de un objeto.
