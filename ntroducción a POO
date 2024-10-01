@@ -1,0 +1,15 @@
+# Introducción a POO
+
+## ¿Qué es la Programación Orientada a Objetos?
+
+La programación orientada a objetos (POO) es un paradigma de programación que utiliza "objetos" para representar datos y métodos. Los objetos son instancias de clases, que pueden contener atributos y comportamientos.
+
+## Historia Breve
+
+La POO fue desarrollada en la década de 1960 y se popularizó en los años 80 con lenguajes como Smalltalk y C++. Hoy en día, lenguajes como Java, C++ y Python utilizan este enfoque.
+
+## Ventajas de POO
+
+- **Reutilización de Código**: Las clases pueden ser reutilizadas en diferentes programas.
+- **Modularidad**: El código es más fácil de gestionar y entender.
+- **Facilidad de Mantenimiento**: Las modificaciones son más sencillas y menos propensas a errores.
