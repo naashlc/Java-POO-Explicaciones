@@ -25,10 +25,13 @@ La herencia permite que una clase (subclase) herede propiedades y métodos de ot
 El polimorfismo permite que métodos en diferentes clases tengan el mismo nombre pero se comporten de manera diferente. Esto facilita la extensibilidad del código.
 
 ## 📚 Recursos Adicionales
-- Por si no te va bien lo de entender muy bien Java no te preocupes aqui te dejo algunos videos que me han ayudado: 
-https://www.youtube.com/watch?v=W86KTBSiX2o&t=1818s
-- Aqui te dejo otro video que tambien me ha servido (incluye POO):
-https://www.youtube.com/watch?v=Bi9AmOBDJGY
+
+- Si no te va bien con Java, no te preocupes; aquí te dejo algunos videos que me han ayudado:
+  - [JAVA Desde Cero: Primeros Pasos en una hora](https://www.youtube.com/watch?v=W86KTBSiX2o&t=1818s)
+  
+- Aquí tienes otro video que también me ha servido (incluye POO):
+  - [Aprende Java en 2024: El curso definitivo para principiantes](https://www.youtube.com/watch?v=Bi9AmOBDJGY)
+
 
 ## ❓ Preguntas Frecuentes
 - **¿Qué es un constructor?**
