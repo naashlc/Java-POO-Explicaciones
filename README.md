@@ -19,9 +19,6 @@
 ## 🤝 Cómo Contribuir
 ¡Me encantaría recibir tus comentarios! Si tienes recursos o consejos que crees que podrían ser útiles, no dudes en abrir un pull request o dejar un comentario.
 
-## 📫 Contacto
-Si tienes preguntas o necesitas ayuda, puedes contactarme en [tu_email@example.com].
-
 ## 🙏 Agradecimientos
 - A todos los creadores de contenido en YouTube y otros recursos en línea que me han ayudado en mi camino. ¡Gracias!
 
