@@ -9,6 +9,8 @@
 - **Conceptos clave** 
   - Clases
   - Objetos
+  - Abstraccion
+  - Encapsulamiento
   - Herencia
   - Polimorfismo
 - **Recursos útiles**
